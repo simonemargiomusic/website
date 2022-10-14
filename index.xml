@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Simonemargio - Music</title>
-    <link>https://simonemargiomusic.im/</link>
+    <link>https://simonemargiomusic.netlify.app/</link>
     <description>Recent content on Simonemargio - Music</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://simonemargiomusic.im/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://simonemargiomusic.netlify.app/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
